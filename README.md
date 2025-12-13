@@ -1,26 +1,15 @@
 # FineTuning
-
+```
 !jq 'del(.metadata.widgets)' Source.ipynb > Target.ipynb ## use this one in colab to avoid Github Metadata error
-
+```
 ## Blogs
-
-[Illustrated Transformer](https://news.ycombinator.com/item?id=35712334)
-
-[Transformers](https://deeprevision.github.io/posts/001-transformer/#transformer-current-challenges-and-future-directions)
 
 [Transformers](https://aigents.co/data-science-blog/publication/the-transformers-architecture-in-detail-whats-the-magic-behind-llms)
 
 [Understanding LLM](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 
-[LangChain](https://blog.futuresmart.ai/building-a-production-ready-rag-chatbot-with-fastapi-and-langchain)
-
-[Evaluation metrics - RAG & Fine-Tuning](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation#faithfulness)
-
-[Trelis Research](https://github.com/TrelisResearch/install-guides?tab=readme-ov-file)
-
 ## YouTube
 
-[Pre-train 3B LLM](https://www.youtube.com/watch?v=aPzbR1s1O_8)
 
 [Reproduce GPT-2](https://www.youtube.com/watch?v=l8pRSuU81PU)
 
@@ -39,20 +28,11 @@
 [AWS Sagemaker Deployment](https://www.youtube.com/watch?v=U72q95dHpRo)
 
 
-## Github - LLM+GenAI
-
-[LLM+GenAI](https://github.com/Vasanthengineer4949/NLP-Projects-NHV)
-
-[LLM+GenAI](https://github.com/sunnysavita10/Generative-AI-Indepth-Basic-to-Advance)
 
 ## Github - AWS+GenAI
 [GenAI+AWS](https://github.com/aws-samples/generative-ai-on-aws-immersion-day)
 
-# LLM from scratch
 
-[llama3 from scratch](https://github.com/naklecha/llama3-from-scratch)
-
-[LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)	
 
 # LangChain,MLOps
 
@@ -60,17 +40,6 @@
 
 [MLOps](https://github.com/olonok69/LLM_Notebooks/blob/main/mlflow/mlflow_transformers_fine_tuning.ipynb)
 
-
-# TPU training
-
-
-[LLM detect AI comp Mistral-7B](https://www.kaggle.com/code/hotchpotch/train-llm-detect-ai-comp-mistral-7b/notebook)
-
-[DAIGT Mistral-7B TPU BFloat16 (Train)](https://www.kaggle.com/code/markwijkhuizen/daigt-mistral-7b-tpu-bfloat16-train)
-
-[LLAMA 2 13B on TPU (Training)](https://www.kaggle.com/code/defdet/llama-2-13b-on-tpu-training)
-
-[LLAMA 3 TPU (Train)](https://www.kaggle.com/code/kishanvavdara/lmsys-llama-3-tpu-train/notebook)
 
 # GPU Training
 
