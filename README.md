@@ -2,24 +2,11 @@
 ```
 !jq 'del(.metadata.widgets)' Source.ipynb > Target.ipynb ## use this one in colab to avoid Github Metadata error
 ```
-## Blogs
-
-[Transformers](https://aigents.co/data-science-blog/publication/the-transformers-architecture-in-detail-whats-the-magic-behind-llms)
-
-[Understanding LLM](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
-
-## YouTube
 
 
-[Reproduce GPT-2](https://www.youtube.com/watch?v=l8pRSuU81PU)
-
-[Reproduce Deepseek](https://www.youtube.com/playlist?list=PL0ioahleXcwvhkQ1z8ygRQI0EVg38Z0gf)
+## Github - AWS + GenAI
 
 [AWS Sagemaker Deployment](https://www.youtube.com/watch?v=U72q95dHpRo)
-
-
-
-## Github - AWS+GenAI
 
 [GenAI+AWS](https://github.com/aws-samples/generative-ai-on-aws-immersion-day)
 
