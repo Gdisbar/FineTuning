@@ -1,5 +1,7 @@
 # FineTuning
 
+!jq 'del(.metadata.widgets)' Source.ipynb > Target.ipynb ## use this one in colab to avoid Github Metadata error
+
 ## Blogs
 
 [Illustrated Transformer](https://news.ycombinator.com/item?id=35712334)
