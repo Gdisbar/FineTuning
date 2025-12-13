@@ -13,6 +13,8 @@
 
 [Reproduce GPT-2](https://www.youtube.com/watch?v=l8pRSuU81PU)
 
+[Reproduce Deepseek](https://www.youtube.com/playlist?list=PL0ioahleXcwvhkQ1z8ygRQI0EVg38Z0gf)
+
 [AWS Sagemaker Deployment](https://www.youtube.com/watch?v=U72q95dHpRo)
 
 
