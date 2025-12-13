@@ -13,41 +13,18 @@
 
 [Reproduce GPT-2](https://www.youtube.com/watch?v=l8pRSuU81PU)
 
-[Building Production RAG](https://www.youtube.com/watch?v=dI_TmTW9S4c)
-
-[LangChain vs LangGraph](https://www.youtube.com/watch?v=bvMX-Zlfv68)
-
-[DataStream with LangChain + FastAPI](https://www.youtube.com/watch?v=Gn54EbU9mRg)
-
-[Build & Deploy AI ChatBot](https://www.youtube.com/watch?v=KyQKTJhSIak)
-
-[Knowledge Graph](https://www.youtube.com/watch?app=desktop&v=yNCI3DC3tLg)
-
-[RLHF - DPO](https://www.youtube.com/watch?app=desktop&v=aI8cyr-gH6M)
-
 [AWS Sagemaker Deployment](https://www.youtube.com/watch?v=U72q95dHpRo)
 
 
 
 ## Github - AWS+GenAI
+
 [GenAI+AWS](https://github.com/aws-samples/generative-ai-on-aws-immersion-day)
-
-
-
-# LangChain,MLOps
-
-[LangChain-FastAPI](https://github.com/Coding-Crashkurse/Advanced-LangChain-with-FastAPI)
-
-[MLOps](https://github.com/olonok69/LLM_Notebooks/blob/main/mlflow/mlflow_transformers_fine_tuning.ipynb)
 
 
 # GPU Training
 
 [Gemma-2 9b 4-bit QLoRA fine-tuning](https://www.kaggle.com/code/emiz6413/training-gemma-2-9b-4-bit-qlora-fine-tuning)
-
-# Fine-Tuning - deeplearning.ai
-
-[Fine-tune FLAN-T5 with PPO](https://www.kaggle.com/code/paultimothymooney/fine-tune-flan-t5-with-ppo-deeplearning-ai)
 
 # Training for custom application 
 
