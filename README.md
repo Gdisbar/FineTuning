@@ -3,6 +3,9 @@
 !jq 'del(.metadata.widgets)' Source.ipynb > Target.ipynb ## use this one in colab to avoid Github Metadata error
 ```
 
+## LLM Fine-Tuning
+
+[LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning)
 
 ## Github - AWS + GenAI
 
